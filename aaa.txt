@@ -1,3 +1,4 @@
 This is a test.
 Thank you.
 Added in the vagrant.
+Amendment frrom test branch to master branch.
